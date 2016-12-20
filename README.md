@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/wilson-jetbloom/wilson-jet
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![art-of-bugreporting](https://cloud.githubusercontent.com/assets/23631541/21336905/eaa0e844-c625-11e6-9b0b-252b8fcdd54b.png)
+
+<img alt="art-of-bugreporting" src="https://cloud.githubusercontent.com/assets/23631541/21336905/eaa0e844-c625-11e6-9b0b-252b8fcdd54b.png">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -14,6 +18,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
